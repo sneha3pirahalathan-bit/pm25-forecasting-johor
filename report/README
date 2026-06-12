@@ -1,0 +1,19 @@
+# Report
+This folder contains the complete Final Year Project report.
+
+## Project Title
+PM2.5 Forecasting in Johor Using ARIMA and SARIMA models
+
+## Description
+The report presents the development and evaluation of ARIMA and SARIMA models for forecasting PM2.5 concentrations across eight monitoring stations in Johor, Malaysia.
+
+The study includes:
+- Data preprocessing
+- Exploratory Data Analysis (EDA)
+- Stationarity testing
+- ARIMA and SARIMA modelling
+- Residual diagnostics
+- Forecast accuracy evaluation using RMSE, MAE and MAPE
+- 14-day PM2.5 forecasting
+
+The complete academic report is provided below.
